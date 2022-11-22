@@ -5,3 +5,5 @@
 *_files/
 *.Rproj
 /data
+.RData
+
